@@ -18,7 +18,7 @@ System.out.println("ENTER 1 FOR ADD NEW BOOK");
 System.out.println("ENTER 2 FOR ADD NEW MEMBER");
 System.out.println("ENTER 3 FOR VIEW MEMBER STATUS");
 System.out.println("ENTER 4 FOR VIEW BOOK STATUS");
-System.out.println("ENTER 5 FOR ISSUE BOOK");
+System.out.println("ENTER 5 FOR BORROW BOOK");
 System.out.println("ENTER 6 FOR RETURN BOOK");
 System.out.println("ENTER 7 TO CLOSE");
 System.out.println("");

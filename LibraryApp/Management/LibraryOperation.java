@@ -121,7 +121,7 @@ for(int j=0;j<membercount;j++)
 {
 if(mid==m[j].memberid)
 {
-if(b[i].availablecopies>bcount)
+if(b[i].availablecopies>=bcount)
 {
 m[j].bookissued+=bcount;
 b[i].availablecopies-=bcount;
